@@ -1,2 +1,0 @@
-# Prática 14
-Instrução prática com o objetivo de plicar os conceitos de programação estruturada, modularização, reutilização de código e organização de programas, utilizando structs e funções em C++. Além disso, incentivar a resolução de problemas, o desenvolvimento da lógica de programação e a colaboração em grupo.
