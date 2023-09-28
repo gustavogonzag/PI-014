@@ -1,14 +1,19 @@
 #include <iostream>
 
-int fatorial(int n) {
-    if (n == 0 || n == 1) {
+int fatorial(int n)
+{
+    if (n == 0 || n == 1)
+    {
         return 1;
-    } else {
+    }
+    else
+    {
         return n * fatorial(n - 1);
     }
 }
 
-int main() {
+int main()
+{
     int num1 = 5;
     int num2 = 7;
     int num3 = 10;
