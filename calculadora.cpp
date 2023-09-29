@@ -65,3 +65,7 @@ int multiplicacao(int a, int b)
 double divisao(double a, double b){
     return a /b;
 }
+
+int restoDivisao(int a, int b){
+    return a % b;
+}
