@@ -18,7 +18,8 @@ struct CorDesign {
 
 struct Bateria
 {
-
+    int capacidademAh;
+    double tempoUsoRestante;
 };
 
 struct Camera
