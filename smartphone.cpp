@@ -1,11 +1,15 @@
-struct CaracteristicasBasicas
-{
-
+struct CaracteristicasBasicas {
+    string marca;
+    string modelo;
+    string sistemaOperacional;
+    double tamanhoTela;
+    int capacidadeArmazenamentoGB;
 };
 
-struct CorDesign
-{
-
+struct CorDesign {
+    string cor;
+    string material;
+    double dimensoes;
 };
 
 struct Bateria
