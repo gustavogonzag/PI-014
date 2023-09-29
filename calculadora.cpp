@@ -61,3 +61,7 @@ int multiplicacao(int a, int b)
 {
     return a * b;
 }
+
+double divisao(double a, double b){
+    return a /b;
+}
