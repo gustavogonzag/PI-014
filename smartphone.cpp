@@ -22,9 +22,10 @@ struct Bateria
     double tempoUsoRestante;
 };
 
-struct Camera
-{
-
+struct Camera {
+    int megapixelsPrincipal;
+    int megapixelsFrontal;
+    std::string recursos;
 };
 
 struct Conectividade
