@@ -1,3 +1,7 @@
+#include <string>
+
+using namespace std;
+
 struct CaracteristicasBasicas {
     string marca;
     string modelo;
